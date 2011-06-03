@@ -1,6 +1,5 @@
 Angry Bird Chrome Recorder
 
-wwU3Bn0aE1Pyfk7i6O1yABmBHefzV6
 到 http://chrome.angrybirds.com/ 在網址列輸入 
 javascript: var js = document.createElement('script'); js.src = 'http://ronny.tw/abr/abr.js?v=' + Math.random(); document.getElementsByTagName('head')[0].appendChild(js); 
 
@@ -16,4 +15,6 @@ Upload Replay 可以將自己玩的 Replay 上傳到網路上，會顯示一個 
 
 不過因為同樣的一個軌跡在 Angry Bird Chrome 的結果可能會不一樣
 因此其實這個 Replay 滿沒意義的就是了。
-
+==
+另外，補充一個 replay id : wwU3Bn0aE1Pyfk7i6O1yABmBHefzV6
+是我在 1-1 測試用的，大家可以試試看到 1-1 後，進入開始遊戲的情況下 Import 這個來實驗一下
