@@ -1,7 +1,7 @@
 Angry Bird Chrome Recorder
 
 到 http://chrome.angrybirds.com/ 在網址列輸入 
-javascript: var js = document.createElement('script'); js.src = 'http://ronny.tw/abr/abr.js?v=' + Math.random(); document.getElementsByTagName('head')[0].appendChild(js); 
+javascript: var js = document.createElement('script'); js.src = 'http://ronny.tw/abr/abr.js'; document.getElementsByTagName('head')[0].appendChild(js); 
 
 左上方就會出現四顆按鈕
 RECORD START, REPLAY, Upload Replay, Import Replay
