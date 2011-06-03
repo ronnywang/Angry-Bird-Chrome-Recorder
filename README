@@ -1,0 +1,19 @@
+Angry Bird Chrome Recorder
+
+wwU3Bn0aE1Pyfk7i6O1yABmBHefzV6
+到 http://chrome.angrybirds.com/ 在網址列輸入 
+javascript: var js = document.createElement('script'); js.src = 'http://ronny.tw/abr/abr.js?v=' + Math.random(); document.getElementsByTagName('head')[0].appendChild(js); 
+
+左上方就會出現四顆按鈕
+RECORD START, REPLAY, Upload Replay, Import Replay
+
+RECORD 可以記錄接下來所玩的動作, 再按一次就會結束
+然後就可以重新這一關，按 REPLAY 來看看剛剛玩的 REPLAY
+
+Upload Replay 可以將自己玩的 Replay 上傳到網路上，會顯示一個 Replay ID 
+只要把這個 Replay ID 記錄起來，
+在 Import Replay 裡面輸入這個 ID 就可以重新播放別人上傳到網路上的 Replay 了
+
+不過因為同樣的一個軌跡在 Angry Bird Chrome 的結果可能會不一樣
+因此其實這個 Replay 滿沒意義的就是了。
+
